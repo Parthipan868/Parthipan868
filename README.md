@@ -14,7 +14,7 @@
   </a>
 </p>
 
----
+<hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;">
 
 ### 💻 Tech Stack:
 
