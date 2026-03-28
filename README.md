@@ -3,11 +3,9 @@
   <a href="https://www.instagram.com/parthi_86/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
   <a href="https://www.linkedin.com/in/parthipan-m-097051292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="https://leetcode.com/u/Parthipan_Muthuswamy/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -37,7 +35,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parthipan868&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=0D1117&cache_seconds=1800" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Parthipan868&theme=tokyonight&background=0D1117&border=0D1117&cache_seconds=1800" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Parthipan868&theme=tokyonight&background=0D1117&border=0D1117" />
 </p>
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthipan868&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=0D1117&langs_count=8&cache_seconds=1800" />
@@ -48,4 +46,11 @@
 ## 📈 Contribution Graph:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthipan868&theme=tokyonight" />
+</p>
+
+<br>
+
+## 🐧 Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
