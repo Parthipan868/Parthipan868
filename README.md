@@ -1,5 +1,4 @@
 ## 🌐 Socials:
-<hr style="border: none; border-top: 1px solid #30363d; margin-top: 5px;">
 
 <p> 
   <a href="https://www.instagram.com/parthi_86/?hl=en" target="_blank">
@@ -18,7 +17,6 @@
 <br>
 
 ### 💻 Tech Stack:
-<hr style="border: none; border-top: 1px solid #30363d; margin-top: 5px;">
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
