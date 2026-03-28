@@ -36,42 +36,23 @@
 </p>
 
 ## 📊 GitHub Stats:
+<hr style="border: none; border-top: 1px solid #30363d; margin-top: 5px;">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthipan868&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthipan868&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parthipan868&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=0D1117" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Parthipan868&theme=tokyonight&background=0D1117&border=0D1117" />
 </p>
 
----
+<p align="center" style="margin-top: -10px;">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthipan868&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=0D1117&langs_count=8" />
+</p>
+
+<br>
 
 ## 📈 Contribution Graph:
+<hr style="border: none; border-top: 1px solid #30363d; margin-top: 5px;">
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthipan868&theme=tokyonight" />
 </p>
 
----
-
-## 🔥 Most Used Languages:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthipan868&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation:
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 👀 Profile Views:
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parthipan868&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
