@@ -32,14 +32,15 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
+<br>
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parthipan868&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=0D1117" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Parthipan868&theme=tokyonight&background=0D1117&border=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parthipan868&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=0D1117&cache_seconds=1800" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Parthipan868&theme=tokyonight&background=0D1117&border=0D1117&cache_seconds=1800" />
 </p>
-<p align="center" style="margin-top: -10px;">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthipan868&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=0D1117&langs_count=8" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthipan868&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=0D1117&langs_count=8&cache_seconds=1800" />
 </p>
 
 <br>
