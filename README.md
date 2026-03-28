@@ -34,3 +34,44 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthipan868&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthipan868&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph:
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthipan868&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Most Used Languages:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthipan868&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation:
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 👀 Profile Views:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Parthipan868&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
