@@ -1,5 +1,7 @@
 ## 🌐 Socials:
 
+<hr style="border: 0; height: 1px; background: #30363d;">
+
 <p> 
   <a href="https://www.instagram.com/parthi_86/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -14,9 +16,11 @@
   </a>
 </p>
 
-<hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;">
+---
 
 ### 💻 Tech Stack:
+
+<hr style="border: 0; height: 1px; background: #30363d;">
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
