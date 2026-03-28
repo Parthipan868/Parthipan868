@@ -1,5 +1,4 @@
 ## 🌐 Socials:
-
 <p> 
   <a href="https://www.instagram.com/parthi_86/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -17,7 +16,6 @@
 <br>
 
 ### 💻 Tech Stack:
-
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -36,13 +34,10 @@
 </p>
 
 ## 📊 GitHub Stats:
-<hr style="border: none; border-top: 1px solid #30363d; margin-top: 5px;">
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parthipan868&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=0D1117" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Parthipan868&theme=tokyonight&background=0D1117&border=0D1117" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Parthipan868&theme=tokyonight&background=0D1117&border=0D1117" />
 </p>
-
 <p align="center" style="margin-top: -10px;">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthipan868&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=0D1117&langs_count=8" />
 </p>
@@ -50,9 +45,6 @@
 <br>
 
 ## 📈 Contribution Graph:
-<hr style="border: none; border-top: 1px solid #30363d; margin-top: 5px;">
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthipan868&theme=tokyonight" />
 </p>
-
