@@ -20,9 +20,9 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
-  <a href="https://parthipan868.github.io/Portfolio-/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+<a href="https://parthipan868.github.io/Portfolio-/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 </p>
 
 <br>
