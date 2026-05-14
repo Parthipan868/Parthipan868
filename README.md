@@ -5,9 +5,8 @@
   />
 </h1>
 
-<br>
 
-## 🌐 Socials:
+🌐 Socials:
 <p> 
   <a href="https://www.instagram.com/parthi_86/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
